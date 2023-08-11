@@ -1,5 +1,7 @@
 # instagram_app_clone
 
+![313908268_819191899377929_7546364507047555119_n (1)](https://github.com/coderegtech/instagram-clone-flutter/assets/98440814/c0728fef-0b44-47ff-95ae-aab42e36957d)
+
 A new Flutter project.
 
 ## Getting Started
